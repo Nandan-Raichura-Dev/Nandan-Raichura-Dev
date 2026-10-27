@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring full stack devloper<br>open source contributer<br>C++,Dsa <br>Building real word projects
+Full Stack Web Devloper<br>Open Source Contributer<br>C++,Dsa <br>Building Real Word Projects
 
 
 # 💻 Tech Stack:
