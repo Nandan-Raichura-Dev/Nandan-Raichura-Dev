@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋About Me:
 Full Stack Web Devloper<br>Open Source Contributer<br>C++,Dsa <br>Building Real Word Projects
 
 
