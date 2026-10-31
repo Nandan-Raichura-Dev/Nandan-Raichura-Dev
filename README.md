@@ -1,5 +1,5 @@
 # 👋About Me:
-Full Stack Web Devloper<br>Open Source Contributer<br>C++,Dsa <br>Building Real Word Projects
+   Full Stack Web Devloper<br>Open Source Contributer<br>C++,Dsa <br>Building Real Word Projects<br><br>
 
 
 # 💻 Tech Stack:
@@ -21,7 +21,7 @@ Full Stack Web Devloper<br>Open Source Contributer<br>C++,Dsa <br>Building Real 
 &nbsp;
 ![bootstrap](https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=32&animation=glow)
 &nbsp;
-<br>
+<br><br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=nandan-raichura-dev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=nandan-raichura-dev&theme=transparent&hide_border=true)<br/>
