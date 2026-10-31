@@ -1,6 +1,13 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=200&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There%2C+I%E2%80%99m+Nandan+Raichura" alt="Typing SVG" />
+  </a>
+</p>
+
+
 # 👋About Me:
    Full Stack Web Devloper<br>Open Source Contributer<br>C++,Dsa <br>Building Real Word Projects<br><br>
-
+   
 
 # 💻 Tech Stack:
 ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=32&animation=glow)
@@ -29,4 +36,3 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
