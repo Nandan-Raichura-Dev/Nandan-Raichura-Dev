@@ -12,22 +12,23 @@
 # 💻 Tech Stack:
 ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=32&animation=glow)
 &nbsp;
+&nbsp;
 ![cplusplus](https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=32&animation=glow)
-&nbsp;
+&nbsp;&nbsp;
 ![nodedotjs](https://www.readmecodegen.com/api/social-icon?name=nodedotjs&size=32&animation=glow)
-&nbsp;
+&nbsp;&nbsp;
 ![nodemon](https://www.readmecodegen.com/api/social-icon?name=nodemon&size=32&animation=glow)
-&nbsp;
+&nbsp;&nbsp;
 ![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=32&animation=glow)
-&nbsp;
+&nbsp;&nbsp;
 ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=32&animation=glow)
-&nbsp;
+&nbsp;&nbsp;
 ![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=32&animation=glow)
 &nbsp;
 ![css](https://www.readmecodegen.com/api/social-icon?name=css&size=32&animation=glow)
-&nbsp;
+&nbsp;&nbsp;
 ![bootstrap](https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=32&animation=glow)
-&nbsp;
+&nbsp;&nbsp;
 <br><br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=nandan-raichura-dev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
