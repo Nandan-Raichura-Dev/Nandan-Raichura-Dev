@@ -1,8 +1,11 @@
 <p align="center">
   <img width="1092" height="172" alt="Image" src="https://github.com/user-attachments/assets/a0fc8637-4311-436e-931b-225f7e4656f1" />
 </p>
+<br>
 
-<h3 align="center">Full Stack Web Developer · Open Source Contributor · C++ & DSA </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Open+Source+Contributor;DSA+in+C%2B%2B" alt="Typing SVG" />
+</p>
 
 <br>
 
