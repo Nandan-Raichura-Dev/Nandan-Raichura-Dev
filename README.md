@@ -1,39 +1,83 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=200&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There%2C+I%E2%80%99m+Nandan+Raichura" alt="Typing SVG" />
-  </a>
+  <img width="1092" height="172" alt="Image" src="https://github.com/user-attachments/assets/a0fc8637-4311-436e-931b-225f7e4656f1" />
 </p>
 
+<h3 align="center">Full Stack Web Developer · Open Source Contributor · C++ & DSA </h3>
 
-# 👋About Me:
-   Full Stack Web Devloper<br>Open Source Contributer<br>C++,Dsa <br>Building Real Word Projects<br><br>
-   
+<br>
 
-# 💻 Tech Stack:
-![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=32&animation=glow)
-&nbsp;
-&nbsp;
-![cplusplus](https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=32&animation=glow)
-&nbsp;&nbsp;
-![nodedotjs](https://www.readmecodegen.com/api/social-icon?name=nodedotjs&size=32&animation=glow)
-&nbsp;&nbsp;
-![nodemon](https://www.readmecodegen.com/api/social-icon?name=nodemon&size=32&animation=glow)
-&nbsp;&nbsp;
-![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=32&animation=glow)
-&nbsp;&nbsp;
-![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=32&animation=glow)
-&nbsp;&nbsp;
-![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=32&animation=glow)
-&nbsp;
-![css](https://www.readmecodegen.com/api/social-icon?name=css&size=32&animation=glow)
-&nbsp;&nbsp;
-![bootstrap](https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=32&animation=glow)
-&nbsp;&nbsp;
-<br><br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nandan-raichura-dev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nandan-raichura-dev&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nandan-raichura-dev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🙋‍♂️ About Me
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<table align="center">
+  <tr>
+    <td>🚀</td>
+    <td>Full Stack Web Developer, building clean and scalable web apps</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>Actively contributing to Open Source projects</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td>Sharpening problem-solving skills with C++ & DSA</td>
+  </tr>
+  <tr>
+    <td>🛠️</td>
+    <td>Currently building real-world, production-ready projects</td>
+  </tr>
+</table>
 
+<br>
+
+## 💻 Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=32&animation=glow" />&nbsp;&nbsp;
+      <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=32&animation=glow" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=32&animation=glow" />&nbsp;&nbsp;
+      <img src="https://www.readmecodegen.com/api/social-icon?name=css&size=32&animation=glow" />&nbsp;&nbsp;
+      <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=32&animation=glow" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="center">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=nodedotjs&size=32&animation=glow" />&nbsp;&nbsp;
+      <img src="https://www.readmecodegen.com/api/social-icon?name=nodemon&size=32&animation=glow" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td align="center">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=32&animation=glow" />&nbsp;&nbsp;
+      <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=32&animation=glow" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=nandan-raichura-dev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="48%"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nandan-raichura-dev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nandan-raichura-dev&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
