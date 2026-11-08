@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td>🚀</td>
-    <td>Full Stack Web Developer, building clean and scalable web apps</td>
+    <td>Full Stack Web Developer, building clean and efficient web apps</td>
   </tr>
   <tr>
     <td>🌱</td>
