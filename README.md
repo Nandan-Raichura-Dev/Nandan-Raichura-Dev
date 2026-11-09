@@ -71,12 +71,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nandan-raichura-dev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="48%"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nandan-raichura-dev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=nandan-raichura-dev&hide_border=true&include_all_commits=false&count_private=false&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=9DF5C0" width="48%"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nandan-raichura-dev&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=39D353&text_color=9DF5C0" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nandan-raichura-dev&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=nandan-raichura-dev&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakNum=FFFFFF&sideNums=9DF5C0&currStreakLabel=39D353&sideLabels=9DF5C0&dates=9DF5C0&border=0D1117" width="70%"/>
 </p>
 
 <br>
