@@ -10,6 +10,8 @@
 <br>
 
 ## 🙋‍♂️ About Me
+<br>
+<br>
 
 <table align="center">
   <tr>
