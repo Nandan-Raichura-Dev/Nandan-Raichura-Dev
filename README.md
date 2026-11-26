@@ -74,8 +74,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=nandan-raichura-dev&hide_border=true&include_all_commits=false&count_private=false&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=9DF5C0" width="48%"/>
 </p>
