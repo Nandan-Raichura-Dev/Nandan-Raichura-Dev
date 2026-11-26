@@ -36,6 +36,8 @@
 
 ## 💻 Tech Stack
 
+<br><br>
+
 <table align="center">
   <tr>
     <td align="center"><b>Languages</b></td>
